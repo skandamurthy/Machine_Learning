@@ -1,0 +1,2 @@
+One hot encoding in sk_learn:
+https://www.ritchieng.com/machinelearning-one-hot-encoding/
