@@ -1,0 +1,3 @@
+Tensorflow feeding data- Queues vs dicts
+
+https://blog.metaflow.fr/tensorflow-how-to-optimise-your-input-pipeline-with-queues-and-multi-threading-e7c3874157e0
